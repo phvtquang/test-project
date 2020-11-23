@@ -19,6 +19,8 @@ bool isPrime(int n)
 
 int main()
 {
+    freopen("input.txt","r",stdin);
+    freopen("output.txt","w",stdout);
     int n;
     cin >> n;
     if (isPrime(n)==true) {
