@@ -1,1 +1,1 @@
-# Is prime Check using C++
+# Checking Prime Number Using C++
