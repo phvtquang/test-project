@@ -3,6 +3,7 @@
 
 using namespace std;
 
+// Ham kiem tra so nguyen to
 bool isPrime(int n)
 {
     if (n<=1) {
